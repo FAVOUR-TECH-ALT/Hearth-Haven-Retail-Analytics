@@ -67,5 +67,5 @@ Excel, Power Query, Excel Data Model, DAX, PivotTables, slicers.
 
 Author
 
-Favour Daniel
-LinkedIn
+Oladigbolu Favour Daniel
+LinkedIn linkedin.com/in/favour-daniel-41b113291
