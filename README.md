@@ -110,4 +110,4 @@ The workbook keeps its own copy of the data, so the dashboard works without the 
 ## Author
 
 **Favour Daniel**  
-[LinkedIn](add-link-here)
+[LinkedIn](linkedin.com/in/favour-daniel-41b113291)
