@@ -6,7 +6,7 @@ An Excel analysis and four-page interactive dashboard (Power Query, Excel Data M
 
 Hearth & Haven UK is a fictional online retailer of home goods: kitchenware, soft furnishings, lighting, decor, bathroom and home organisation products. It sells through seven channels (organic and paid search, direct, email, social, marketplace and affiliate) and ships by Standard, Express or Click & Collect. Between 2021 and 2025 it took about 93,000 sales orders (200,000 order lines before cleaning) from 25,000 customers. Net revenue over the period was £14.99M, with an average order value of £161, an estimated gross margin of 48% and returns equal to 8.5% of net revenue.
 
-I wrote this analysis as an analyst working at the company. Revenue has barely moved since 2021, and management wants to know where the business is giving value away and what to examine first. I set out to answer seven questions:
+ Revenue has barely moved since 2021, and management wants to know where the business is giving value away and what to examine first. I set out to answer seven questions:
 
 1. How did revenue, orders and estimated margin change by month and year, and does the year have a consistent shape?
 2. Which categories, products and suppliers earn more margin than others, and why?
