@@ -312,5 +312,7 @@ Hearth & Haven UK's revenue was flat, and the data points to margin and returns,
 
 ## Author
 
-**Favour Daniel**  
-[LinkedIn](add-link-here)
+**Oladigbolu Favour Daniel**  
+---
+## Connect with Me
+- **LinkedIn:** [Favour Daniel](https://www.linkedin.com/in/favour-daniel-41b113291)
